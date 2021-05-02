@@ -1,5 +1,7 @@
 # PokemonDataAnalysis
 Answering a few questions I always thought about Pokemon. Using Pandas and Tableau.
+
+
 Q1: Which are the top 10 Pokemon being from Generation one to five, any type of Pokemon at any stage of evolution, non-legendary, their attack, defence and speed being greater than 100, finally their HP should be a minimum of 60. (Here the objective was to highlight only the strongest Pokemons of any type)
 
 The whole purpose of such data analysis is to reveal insights which you will never expect! Pokemon names such as Celebi, Manaphy will be unknown to many as compared to Pikachu.
