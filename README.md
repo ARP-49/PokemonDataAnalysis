@@ -7,11 +7,15 @@ The whole purpose of such data analysis is to reveal insights which you will nev
 So now Ash Ketchum knows which Pokemon to keep high on his priority list.
 https://public.tableau.com/views/Question1DataFrameResults/Sheet1?:language=en&:display_count=y&:origin=viz_share_link
 
+
+
 Q2: The second objective is to define the strongest possible pokemon under the types of water and fire belonging to the classical generations of 1 to 3 where the Pokemon's strongness is defined by the average of their attack, defence, HP, special attack, special defence and speed.
 
 Answering these questions became a bit complex as I had to be innovative towards my approach while deciding exactly how and which columns should be used or dropped from consideration. The creation of subsets and filters had to be in stages or else grasping particular parts of data would have been tricky.
 Again this analysis gave me some very unique answers. The most famous and strongest Pokemons I ever knew under fire and water types were Blastoise and Charizard(having played it on Gameboy), but as I expanded the scope of the generation I entered unchartered territory and discovered one of the strongest Pokemon(s)- "Ho-oh" and "Primal Kyogre"
 https://public.tableau.com/views/Q2_DataFrame_Result/Sheet1?:language=en&:display_count=y&:origin=viz_share_link
+
+
 
 Q3: Objective
 For a strategic Pokemon Trainer/ expert, teamwork is important. During a battle against an even better player, it is essential to create a buffer to wear down the opponent in order to predict their next move and Pokemon or manipulating the opponent by introducing "buffer pokemon(s). "
@@ -29,3 +33,5 @@ If we want the best variations, Pidgeot.
 This variety gives us an upper hand in any battle alongside reliability to survive a tough encounter.
 
 https://public.tableau.com/views/Q3_DataFrame_Results/Sheet1?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link
+
+
